@@ -1,0 +1,12 @@
+{
+  "name": "com.AlexOravec.UnityGameplayFramework",
+  "version": "1.0.0",
+  "displayName": "Unity Gameplay Framework",
+  "description": "A framework for creating gameplay systems in Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Alex Oravec",
+    "email": "alex.oravec.pn@gmail.com",
+    "url": "https://www.linkedin.com/in/alex-oravec-740963163/"
+  }
+}
