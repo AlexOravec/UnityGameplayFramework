@@ -7,3 +7,8 @@
 - README.md was added
 - CHANGELOG.md was added
 - package.json was added
+
+## [1.0.1] - 2025-03-26
+
+### Fixed
+- Assembly definition file was fixed
